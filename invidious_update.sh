@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# shellcheck disable=SC2181,SC2059,SC2086,SC2002,SC2162,SC2005,SC2015,SC2308,SC2006,SC2236,SC2231,SC1091
 
 ## Author: Tommy Miland (@tmiland) - Copyright (c) 2022
 
